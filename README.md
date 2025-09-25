@@ -20,6 +20,6 @@ This project utilizes the following TouchDesigner components:
 
 ## Installation / Usage
 1. Download the `.toe` project file.  
-2. Open it in **TouchDesigner** (099 or later recommended).  
+2. Open it in **TouchDesigner**.  
 3. Adjust parameters in the Noise, Fractal, Blur, or Transform nodes to customize the visual output.  
 4. Connect to external output or render for recording/video output if desired.
